@@ -42,3 +42,22 @@ implemented in google colab using python.
 - Clustering Evaluation
 
 **Implemented in Google Colab using Python.**
+
+**Week 4 Assignment**
+
+**Topics covered:**
+
+- Perceptron
+- Multi-Layer Perceptron (MLP)
+- Forward Pass
+- Backpropagation
+- Sigmoid and Tanh Activation Functions
+- ReLU Family of Activation Functions
+- Loss Functions in Deep Learning
+- Convolutional Layer
+- Pooling and Stride
+- Padding
+- CNN Architectures
+- Transfer Learning
+
+**Implemented in Google Colab using TensorFlow/Keras and Python.**
