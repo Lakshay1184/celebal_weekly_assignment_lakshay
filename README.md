@@ -61,3 +61,24 @@ implemented in google colab using python.
 - Transfer Learning
 
 **Implemented in Google Colab using TensorFlow/Keras and Python.**
+
+**Week 5 Assignment**
+
+**Topics covered:**
+
+- Recurrent Neural Network (RNN) Architecture
+- Backpropagation Through Time (BPTT)
+- Applications of RNN
+- LSTM Gates (Forget Gate, Input Gate, Output Gate)
+- Cell State vs Hidden State
+- Applications of LSTM
+- GRU Update Gate
+- GRU vs LSTM
+- Attention Mechanism
+- Multi-Head Attention
+- Positional Encoding
+- Transformer Architecture
+- BERT vs GPT
+- Text Generation using RNN, LSTM, and GRU
+
+**Implemented in Google Colab using TensorFlow/Keras and Python.**
