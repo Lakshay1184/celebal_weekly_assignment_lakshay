@@ -82,3 +82,16 @@ implemented in google colab using python.
 - Text Generation using RNN, LSTM, and GRU
 
 **Implemented in Google Colab using TensorFlow/Keras and Python.**
+
+**Week 6 Assignment**
+
+**Topics covered:**
+
+- Autoencoders & Variational Autoencoders (VAE)
+- Generative Adversarial Networks (GANs)
+- Optimization Algorithms (SGD, Momentum, AdaGrad, RMSProp, Adam)
+- Introduction to Generative AI
+- Retrieval-Augmented Generation (RAG) with LangChain
+- Prompt Engineering
+
+**Implemented in Google Colab using TensorFlow/Keras and Python.**
