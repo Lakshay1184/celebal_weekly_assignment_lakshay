@@ -95,3 +95,15 @@ implemented in google colab using python.
 - Prompt Engineering
 
 **Implemented in Google Colab using TensorFlow/Keras and Python.**
+
+**Week 7 Assignment**
+
+**Topics covered:**
+
+- Advanced Retrieval-Augmented Generation (Advanced RAG)
+- LLM Internals
+- Fine-Tuning using LoRA & PEFT
+- LLM Evaluation
+- ReAct Framework
+
+**Implemented in Visual Studio Code using Python, LangChain, Hugging Face, and Large Language Models (LLMs).**
