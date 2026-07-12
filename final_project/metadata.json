@@ -1,0 +1,6 @@
+{
+  "name": "MINI-GPT",
+  "description": "A high-performance technical AI workspace for small language model (SLM) inference, optimized for technical reasoning, hardware-level code generation, and CUDA optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
