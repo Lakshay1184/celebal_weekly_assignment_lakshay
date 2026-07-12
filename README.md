@@ -91,7 +91,7 @@ implemented in google colab using python.
 - Generative Adversarial Networks (GANs)
 - Optimization Algorithms (SGD, Momentum, AdaGrad, RMSProp, Adam)
 - Introduction to Generative AI
-- Retrieval-Augmented Generation (RAG) with LangChain
+- Retrieval-Augmented Generation with LangChain
 - Prompt Engineering
 
 **Implemented in Google Colab using TensorFlow/Keras and Python.**
