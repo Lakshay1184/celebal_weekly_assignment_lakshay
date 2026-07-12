@@ -1,4 +1,4 @@
-# 🧠 MiniGPT — A GPT-2-Style Language Model, Built From Scratch
+# 🧠 MiniGPT — A GPT-2-Style, Multilingual 80-mil parameter Language Model, Built From Scratch
 
 *Tokenizer, transformer, training loop, and a web UI to talk to it — all hand-built, no pretrained weights.*
 
