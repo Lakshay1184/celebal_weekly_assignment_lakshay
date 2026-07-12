@@ -107,3 +107,28 @@ implemented in google colab using python.
 - ReAct Framework
 
 **Implemented in Visual Studio Code using Python, LangChain, Hugging Face, and Large Language Models (LLMs).**
+
+**Week 8 Assignment**
+
+**Topics covered:**
+
+- Agentic AI Fundamentals
+- LangGraph
+- AutoGen
+- Tool Use & Function Calling
+- Agent Evaluation
+- Building an Agentic AI Pipeline
+
+**Implemented in Google Colab using Python, LangGraph, LangChain.**
+
+## Final Project
+
+**Project:** MiniGPT — A GPT-2-Style Language Model Built From Scratch
+
+**Highlights:**
+- Developed an **~80M parameter GPT-2-style decoder-only Transformer** from scratch without using pretrained weights.
+- Built a **custom SentencePiece BPE tokenizer**, transformer architecture, and end-to-end training pipeline in PyTorch.
+- Implemented modern LLM improvements including **RoPE**, **SwiGLU**, mixed-precision training, and GPU-aware optimization.
+- Trained the model using a **two-stage pretraining and conversational fine-tuning** approach.
+- Developed a **full-stack chat application** with a Python inference backend and a React + TypeScript frontend for real-time interaction.
+
