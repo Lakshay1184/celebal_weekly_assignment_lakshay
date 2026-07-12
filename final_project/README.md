@@ -1,4 +1,4 @@
-# 🧠 MiniGPT — A GPT-2-Style, Multilingual 80-mil parameter Language Model, Built From Scratch
+# 🧠 MiniGPT — A GPT-2-Style Language Model, Built From Scratch
 
 *Tokenizer, transformer, training loop, and a web UI to talk to it — all hand-built, no pretrained weights.*
 
@@ -25,6 +25,24 @@ It ships with a full web interface, so instead of a Jupyter cell you get a real 
 | 🚀 **GPU-aware training** | Auto-detects Turing vs. Ampere+ GPUs and picks the correct mixed-precision mode (fp16+GradScaler vs. bf16) instead of silently running slow |
 | 🛡️ **OOM-safe & auto-calibrated** | Probes your GPU at startup to find the largest safe batch size, and gracefully recovers mid-training if memory ever runs tight, instead of crashing |
 | 💬 **Full-stack chat app** | React + TypeScript + Vite frontend talking to a Python inference backend serving the trained checkpoint |
+
+
+## 🖼️ Preview
+
+**Chat interface** — a terminal-inspired UI showing live model stats (parameter count, architecture, device, VRAM usage) alongside the conversation:
+
+![MiniGPT chat interface](assets/chat-interface.png)
+
+**Model controls panel** — sampling parameters exposed directly in the UI for experimenting with generation behavior:
+
+![Model controls panel](assets/model-controls.png)
+
+| Control | What it does |
+|---|---|
+| Temperature | Higher = more creative/random, lower = more deterministic |
+| Top-p | Nucleus sampling probability threshold |
+| Max tokens | Caps the length of a generated reply |
+| Repetition penalty | Discourages the model from re-generating identical tokens |
 
 
 ## 🏗️ Architecture
