@@ -2,7 +2,7 @@
 
 *Tokenizer, transformer, training loop, and a web UI to talk to it — all hand-built, no pretrained weights.*
 
-**Stack:** Python · PyTorch · React · TypeScript · Vite
+**Stack:** Python · PyTorch · React · TypeScript · Vite .
 
 ---
 
