@@ -1,4 +1,4 @@
-# celebal_weekly_assignment_lakshay
+# Celebal_weekly_assignment_lakshay
 
 **Week 1 Assignment**
 
