@@ -114,7 +114,6 @@ implemented in google colab using python.
 
 - Agentic AI Fundamentals
 - LangGraph
-- AutoGen
 - Tool Use & Function Calling
 - Agent Evaluation
 - Building an Agentic AI Pipeline
